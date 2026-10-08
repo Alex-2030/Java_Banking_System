@@ -1,5 +1,0 @@
-7598612650,Ahmed Salama,ahmed@gmail.com,10.00,01123914814,02-01-2025,Current
-5299468546,Ahmed Salam,ahmea@gmail.com,3009.83,01123914812,02-01-2024,Savings
-4855224865,wahid wahid,wahid@gmail.com,50.00,01231314145,02-01-2025,Current
-2825717289,sami curr,s@s.com,190.00,01245678921,02-01-2025,Current
-6087983365,sami sav,s1@s.com,992.25,01215678921,02-01-2024,Savings
